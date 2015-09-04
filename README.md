@@ -1,2 +1,2 @@
 # germes
-Repository of RA Germes project
+Репозиторий для проекта RA Germes
